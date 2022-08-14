@@ -47,7 +47,7 @@ For example:
 ```
 
 2. Then, open your terminal and enter to installation folder where you can find docker-compose.yaml file.
-3. Run this command to up your installation. It will download and install some docker images for 5-20 minutes based on your internet connection.
+3. Run this command to turn on your installation. It will download and install some docker images for 5-20 minutes based on your internet connection.
 ```
 docker-compose up
 ```

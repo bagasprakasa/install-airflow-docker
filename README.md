@@ -9,7 +9,7 @@ In this Airflow installation, you will install Airflow 2.2.0 and some services t
     - Second Postgresql image as datawarehouse
 
 2. Airflow Setup:
-    - Airflow Postgresql as repo
+    - Postgresql as Airflow repo
     - Redis
     - Airflow webserver, scheduler, worker
     - Flower

@@ -60,7 +60,7 @@ localhost:5584
 username : airflow
 password : airflow
 ```
-6. You will see a DAG named ``postgres2postgres_manual`` and you can trigger this DAG using play button in the right page.
+6. You will see a DAG named ``postgres2postgres_manual`` and you can trigger this DAG using play button on the right page.
 7. Click on ``postgres2postgres_manual`` DAG and you will see dag tree and wait for the process until finish.
 8. If all process success, you can use your Postgresql client and enter to ``postgres_warehouse`` database to see table that already created and inserted.
 9. To turn off Airflow installation, you can use this command on your terminal.

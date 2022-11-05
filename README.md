@@ -18,6 +18,7 @@ In this Airflow installation, you will install Airflow 2.2.0 and some services t
 1. To run this installation, you must config the credential inside the .env file. 
 For example:
 ```
+AIRFLOW_UID=50000
 DB_NAME=dev
 USER_NAME=user_dev
 USER_PASSWORD=pass2022!

@@ -53,7 +53,7 @@ docker-compose up
 ```
 4. After installation finish, open your browser and type this URL :
 ```
-localhost:5584
+localhost:8080
 ```
 5. You need to insert username and password for Airflow for the first time login, please use this credential below.
 ```
